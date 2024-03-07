@@ -1,5 +1,5 @@
 {
-  "token" : "MTIxNTM1Nzk2NTUwNzM2Njk2Mw.GqupKT.lWAWpM0UcAmeBXBQg9WRdWL_qwKvtHoo0uUCQo",
+  "token" : config.TOKEN",
   "filesDir" : "./files/",
   "commandPlay" : ["!playfile", "!!playfile"],
   "commandStop" : ["!stop", "!stop"],
