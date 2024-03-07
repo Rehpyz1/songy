@@ -1,0 +1,10 @@
+{
+  "token" : "{MTIxNTM1Nzk2NTUwNzM2Njk2Mw.GqupKT.lWAWpM0UcAmeBXBQg9WRdWL_qwKvtHoo0uUCQo}",
+  "filesDir" : "./files/",
+  "commandPlay" : ["!playfile", "!!playfile"],
+  "commandStop" : ["!stop", "!stop"],
+  "commandList" : ["!playLocal list", "!playlocal list"],
+  "warningPlayArgsSentence" : "Aucun argument renseigné, veuillez informer du titre du fichier à jouer. Exemple : !playLocal FoxMix",
+  "filesListSentence" : "Liste des fichiers .mp3 disponibles : ",
+  "warningFolderNotFoundSentence" : "Ce répertoire semble être impossible à scanner : " 
+}
