@@ -1,13 +1,1 @@
-{
-  const settings = require('./index.js')
-  const settings = require('./bot.js')
-  client.config = config;
-  "token" : config.TOKEN",
-  "filesDir" : "./files/",
-  "commandPlay" : ["!playfile", "!!playfile"],
-  "commandStop" : ["!stop", "!stop"],
-  "commandList" : ["!playLocal list", "!playlocal list"],
-  "warningPlayArgsSentence" : "Aucun argument renseigné, veuillez informer du titre du fichier à jouer. Exemple : !playLocal FoxMix",
-  "filesListSentence" : "Liste des fichiers .mp3 disponibles : ",
-  "warningFolderNotFoundSentence" : "Ce répertoire semble être impossible à scanner : " 
-}
+
