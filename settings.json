@@ -1,4 +1,6 @@
 {
+  const settings = require('./index.js')
+  const settings = require('./bot.js')
   client.config = config;
   "token" : config.TOKEN",
   "filesDir" : "./files/",
