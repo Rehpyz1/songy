@@ -1,4 +1,5 @@
 {
+  client.config = config;
   "token" : config.TOKEN",
   "filesDir" : "./files/",
   "commandPlay" : ["!playfile", "!!playfile"],
